@@ -1,0 +1,13 @@
+# Target labels
+ libbpf
+# Source files and their labels
+/etc/vaccine/build/CMakeFiles/libbpf
+/etc/vaccine/build/CMakeFiles/libbpf.rule
+/etc/vaccine/build/CMakeFiles/libbpf-complete.rule
+/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-build.rule
+/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-configure.rule
+/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-download.rule
+/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-install.rule
+/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-mkdir.rule
+/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-patch.rule
+/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-update.rule

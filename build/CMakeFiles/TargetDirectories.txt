@@ -1,0 +1,7 @@
+/etc/vaccine/build/CMakeFiles/libbpf.dir
+/etc/vaccine/build/CMakeFiles/libbpf-build.dir
+/etc/vaccine/build/CMakeFiles/bpftool.dir
+/etc/vaccine/build/CMakeFiles/bpftool-build.dir
+/etc/vaccine/build/CMakeFiles/se.dir
+/etc/vaccine/build/CMakeFiles/edit_cache.dir
+/etc/vaccine/build/CMakeFiles/rebuild_cache.dir

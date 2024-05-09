@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/etc/vaccine/build/CMakeFiles/libbpf"
+		},
+		{
+			"file" : "/etc/vaccine/build/CMakeFiles/libbpf.rule"
+		},
+		{
+			"file" : "/etc/vaccine/build/CMakeFiles/libbpf-complete.rule"
+		},
+		{
+			"file" : "/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-build.rule"
+		},
+		{
+			"file" : "/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-configure.rule"
+		},
+		{
+			"file" : "/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-download.rule"
+		},
+		{
+			"file" : "/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-install.rule"
+		},
+		{
+			"file" : "/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-mkdir.rule"
+		},
+		{
+			"file" : "/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-patch.rule"
+		},
+		{
+			"file" : "/etc/vaccine/build/libbpf/src/libbpf-stamp/libbpf-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libbpf"
+		],
+		"name" : "libbpf"
+	}
+}

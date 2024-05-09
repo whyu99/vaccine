@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/se.dir/se.c.o -o se  libbpf/libbpf.a -lelf -lz 
