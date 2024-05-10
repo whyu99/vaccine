@@ -21,6 +21,7 @@ dnf install clang elfutils-libelf elfutils-libelf-devel zlib-devel cmake
 ### Project Construction
 
 ```c
+git clone https://github.com/whyu99/vaccine.git
 cd vaccine
 git submodule update --init --recursive # 初始化依赖库
 mkdir build && cd build
