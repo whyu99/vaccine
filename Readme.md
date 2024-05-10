@@ -1,5 +1,7 @@
 # Vaccine
 
+This is for process regulation in the paper 'Vaccine: Injection Vulnerabilities Mitigation via Process Analysis and Regulation'.
+
 ## Instructions
 
 ### Installation Dependencies
